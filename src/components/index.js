@@ -1,0 +1,15 @@
+export { default as Billing } from './Billing';
+export { default as Business } from './Business';
+export { default as Button } from './Button';
+export { default as CardDeal } from './CardDeal';
+export { default as Clients } from './Clients';
+export { default as Cta } from './Cta';
+export { default as Feedback } from './FeedbackCard';
+export { default as Footer } from './Footer';
+export { default as GetStarted } from './GetStarted';
+export { default as Hero } from './Hero';
+export { default as Navbar } from './Navbar';
+export { default as Stats } from './Stats';
+export { default as Testimonial } from './Testimonial';
+export { default as FeatureCard } from './FeatureCard';
+export { default as FeedbackCard } from './FeedbackCard';
